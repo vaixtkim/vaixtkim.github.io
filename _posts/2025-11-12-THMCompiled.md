@@ -1,6 +1,6 @@
 ---
 title: TryHackMe - Compiled
-date: 2025-11-12 12:00:00 +/-TTTT
+date: 2025-11-12
 categories: [TryHackMe, Reverse Engineering]
 tags: [tryhackme, reverse-engineering, compiled]     # TAG names should always be lowercase
 author: vaixtkim
