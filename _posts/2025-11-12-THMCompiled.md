@@ -6,11 +6,7 @@ author: vaixtkim
 toc: false
 ---
 
-# TryHackMe - Compiled
-
-**Link:** https://tryhackme.com/room/compiled
-
-## Description
+**Link:** _<https://tryhackme.com/room/compiled>_
 
 This is a reverse engineering challenge from TryHackMe that requires analyzing a compiled binary to discover the correct password.
 

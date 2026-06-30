@@ -4,14 +4,9 @@ categories: [TryHackMe, Web Exploitation]
 tags: [tryhackme, web-exploitation, idor] 
 author: vaixtkim
 toc: false
-media_subpath: /posts/images/
+media_subpath: /images/THM_Corridor/
 ---
-
-# TryHackMe - Corridor
-
-**Link:** https://tryhackme.com/room/corridor
-
-## Description
+**Link:** _<https://tryhackme.com/room/corridor>_
 
 This is a web exploitation challenge from TryHackMe that focuses on discovering and exploiting Insecure Direct Object Reference (IDOR) vulnerabilities.
 
