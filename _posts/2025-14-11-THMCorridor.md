@@ -1,6 +1,5 @@
 ---
 title: TryHackMe - Corridor
-date: 2025-14-11
 categories: [TryHackMe, Web Exploitation]
 tags: [tryhackme, web-exploitation, idor] 
 author: vaixtkim
